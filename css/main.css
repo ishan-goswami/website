@@ -1518,7 +1518,8 @@ header .header-logo a {
   height: 100%;
   background-color: #151515;
   background-image: url(../images/background_home.jpg);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
+  overflow: scroll;
   background-position: center 30%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
