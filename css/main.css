@@ -1520,7 +1520,7 @@ header .header-logo a {
   background-image: url(../images/background_home.jpg);
   background-repeat: no-repeat !important ;
   background-attachment: fixed !important ;
-  background-position: center 30%;
+  background-position: 50% 50% !important ;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover !important ;
